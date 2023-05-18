@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz G. Cancian
-- 👀 I’m interested in Front-End Development and UX/UI Design.
-- 🌱 I’m currently learning React, Tailwind CSS and UX/UI.
+- 👀 I’m interested in Front-End Development and UX/UI.
+- 🌱 I’m currently learning Angular, Tailwind CSS and UX/UI.
 - 📫 How to reach me: luizgnr@hotmail.com
 
 <!---
